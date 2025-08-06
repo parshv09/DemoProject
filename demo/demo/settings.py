@@ -133,5 +133,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://demo-react-host.vercel.app/",  # React dev server
+    "*",  # React dev server
 ]
